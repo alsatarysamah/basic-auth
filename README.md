@@ -1,12 +1,11 @@
 # basic-auth
 
-[gitHub]()
+[gitHub](https://github.com/alsatarysamah/basic-auth)
 
-[Action]()
 
-[pullRequest]()
+[pullRequest](https://github.com/alsatarysamah/basic-auth/pull/1)
 
-[heroku]()
+[heroku](https://samah-basic-auth.herokuapp.com/)
 
 ![](./basicAuth.png)
 
